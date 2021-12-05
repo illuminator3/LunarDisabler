@@ -11,4 +11,4 @@ To install this plugin, simply download the jar from the `Releases` tab on the r
 * Clone the repo (`git clone https://github.com/illuminator3/LunarDisabler.git`)
 * Cd into the generated folder (`cd LunarDisabler`)
 * Build the jar (`gradlew build`)
-* The built jar is located at `build/libs/LunarDisabler.jar`
+* The built jar is then located at `build/libs/LunarDisabler.jar`
