@@ -1,0 +1,7 @@
+name: 'LunarDisabler'
+author: 'illuminator3'
+version: '1.0'
+main: 'me.illuminator3.ld.LunarDisabler'
+
+depend:
+  - 'LunarClient-API'
